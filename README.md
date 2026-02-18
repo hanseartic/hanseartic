@@ -10,7 +10,7 @@ I'm a versatile software developer with a passion for blockchain technology and 
 I'm deeply engaged in the **Stellar Development Foundation** ecosystem, contributing to various projects:
 
 - **[stellar-claim](https://github.com/hanseartic/stellar-claim)** - A TypeScript tool to claim balances on the Stellar network
-- **[stellar-resolve-claimant-predicates](https://github.com/hanseartic/stellar-resolve-claimant-predicates)** - JS module to resolve claimant predicates to flat-most possible representation
+- **[stellar-resolve-claimant-predicates](https://github.com/hanseartic/stellar-resolve-claimant-predicates)** - JS module to resolve claimant predicates to flattened representation
 - **Soroban Smart Contracts** - Participating in Sorobanathon and contributing to Soroban Quest projects
 - **Active contributor** to Stellar SDK, documentation, and tooling improvements
 
@@ -59,7 +59,7 @@ Beyond blockchain, I've worked on a wide variety of projects demonstrating my ve
 
 ## 📈 GitHub Stats
 
-[![hanseartic's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseartic&show_icons=true&theme=transparent)](https://github.com/hanseartic)
+[![GitHub statistics showing hanseartic's repository contributions, stars, and coding activity](https://github-readme-stats.vercel.app/api?username=hanseartic&show_icons=true&theme=transparent)](https://github.com/hanseartic)
 
 ## 🎯 Highlights
 
