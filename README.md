@@ -21,7 +21,7 @@ I'm the author and primary maintainer of **[otto-de/purge-deprecated-workflow-ru
 - ⚙️ **Features**: Highly configurable with support for timeframes, workflow filtering, and batch operations
 
 **Key Contributions:**
-- 23+ merged pull requests covering features, refactoring, and maintenance
+- Numerous merged pull requests covering features, refactoring, and maintenance
 - Designed and implemented flexible configuration system supporting boolean and multi-line string inputs
 - Refactored codebase from JavaScript to TypeScript for better type safety
 - Added comprehensive testing and CI/CD pipelines
