@@ -6,72 +6,82 @@ I'm a versatile software developer with a passion for blockchain technology and 
 
 ## 💼 Professional Work @ OTTO
 
-Currently working at **OTTO GmbH & Co. KG**, one of Europe's largest e-commerce companies, where I contribute to both internal enterprise platforms (**otto-ec**) and public open source initiatives (**otto-de**).
+Currently working at **[OTTO GmbH & Co. KG](https://www.otto.de)**, one of Europe's largest e-commerce companies, where I contribute to both internal enterprise platforms (**otto-ec**) and public open source initiatives (**[otto-de](https://github.com/otto-de)**).
 
 ### 🏢 Areas of Contribution
 
 **Enterprise E-Commerce Development (otto-ec)**
-- Building and maintaining microservices and serverless architectures for large-scale e-commerce operations
-- Developing internal tools and automation solutions for platform reliability and DevOps workflows
-- Contributing to infrastructure modernization and cloud-native application development
-- Working with modern tech stack including TypeScript, Node.js, AWS services, and event-driven architectures
+- Building and maintaining **microservices and serverless architectures** for large-scale e-commerce operations serving millions of customers
+- Developing internal tools and automation solutions for **platform reliability, monitoring, and DevOps workflows**
+- Contributing to **infrastructure modernization** initiatives, migrating legacy systems to cloud-native architectures
+- Implementing **event-driven architectures** using AWS EventBridge, Lambda, and API Gateway for real-time data processing
+- Working with modern tech stack including **TypeScript, Node.js, AWS services**, and serverless frameworks
+- Participating in **agile cross-functional teams** with focus on continuous delivery and deployment
+- **Performance optimization** and scalability improvements for high-traffic e-commerce systems
 
-**Open Source Initiatives (otto-de)**
-- Maintaining public GitHub Actions and automation tools used by the wider developer community
-- Contributing to OTTO's open source ecosystem, fostering knowledge sharing and community engagement
+**Open Source Initiatives ([otto-de](https://github.com/otto-de))**
+- Maintaining public **GitHub Actions and automation tools** used by the wider developer community
+- Contributing to OTTO's open source ecosystem, fostering **knowledge sharing and community engagement**
 - Notable contribution: **[purge-deprecated-workflow-runs](https://github.com/otto-de/purge-deprecated-workflow-runs)** - a GitHub Marketplace action for workflow management with production use across multiple organizations
+- Collaborating on **developer tooling and CI/CD improvements** that benefit both internal teams and external users
 
 ### 💡 Key Professional Skills & Technologies
 
 **Languages & Frameworks:**
-- TypeScript, JavaScript, Node.js
-- Experience with polyglot environments and modern web technologies
+- **TypeScript, JavaScript, Node.js** - Primary development languages for backend services and tooling
+- Experience with **polyglot environments** and modern web technologies
+- Working knowledge of **Python** for data processing and automation scripts
 
 **Cloud & Infrastructure:**
-- AWS services (Lambda, CDK, API Gateway, EventBridge, DynamoDB)
-- Serverless architectures and microservices design
-- Infrastructure as Code (AWS CDK, CloudFormation)
+- **AWS services**: Lambda, CDK, API Gateway, EventBridge, DynamoDB, S3, CloudWatch
+- **Serverless architectures** and microservices design patterns
+- **Infrastructure as Code** (AWS CDK, CloudFormation) for reproducible deployments
+- **Container orchestration** and deployment strategies
 
 **DevOps & Automation:**
-- GitHub Actions development and CI/CD pipeline optimization
-- Workflow automation and developer productivity tools
+- **GitHub Actions** development and CI/CD pipeline optimization
+- Workflow automation and **developer productivity tools**
 - Build tooling (Vercel ncc, npm, TypeScript compiler)
+- **Monitoring and observability** setup with CloudWatch and custom metrics
 
 **Software Engineering Practices:**
-- Security-first development (CodeQL, vulnerability management, minimal permissions)
-- Comprehensive testing strategies and quality assurance
-- Technical documentation and API design
-- Agile development in cross-functional teams
+- **Security-first development** (CodeQL, vulnerability management, minimal permissions, OWASP principles)
+- Comprehensive **testing strategies** (unit, integration, end-to-end) and quality assurance
+- **Technical documentation** and API design following REST principles
+- **Agile development** in cross-functional teams with regular sprint cycles
+- **Code review** practices and mentoring junior developers
 
 **Impact:**
-- Contributing to systems serving millions of customers in one of Europe's largest e-commerce platforms
-- Developing tools that improve developer productivity and platform reliability
-- Balancing enterprise-grade solutions with open source community contributions
+- Contributing to systems serving **millions of customers** in one of Europe's largest e-commerce platforms
+- Developing tools that improve **developer productivity and platform reliability** across teams
+- Balancing **enterprise-grade solutions** with open source community contributions
+- Driving **technical decisions** for service architecture and technology stack choices
 
 ## 🔭 Focus Areas
 
 ### 🌟 Blockchain Development
-I'm deeply engaged in the **Stellar Development Foundation** ecosystem, contributing to various projects:
+I'm deeply engaged in the **[Stellar Development Foundation](https://stellar.org)** ecosystem, contributing to various projects:
 
 - **[stellar-claim](https://github.com/hanseartic/stellar-claim)** - A TypeScript tool to claim balances on the Stellar network
 - **[stellar-resolve-claimant-predicates](https://github.com/hanseartic/stellar-resolve-claimant-predicates)** - JS module to resolve claimant predicates to flattened representation
-- **Soroban Smart Contracts** - Participating in Sorobanathon and contributing to Soroban Quest projects
-- **Active contributor** to Stellar SDK, documentation, and tooling improvements
+- **[Soroban Smart Contracts](https://github.com/hanseartic/sorobanathon)** - Participating in Sorobanathon and contributing to Soroban Quest projects
+- **Active contributor** to [Stellar SDK](https://github.com/stellar/js-stellar-sdk), [documentation](https://github.com/stellar/stellar-docs), and tooling improvements
 
 ### 💻 Open Source Contributions
 
 With **135+ pull requests** and **36+ issues** across various repositories, I actively contribute to the open source community:
 
 #### Major Contributions:
-- **OTTO (otto-de/otto-ec)** - Enterprise e-commerce development and open source automation tools
-- **Stellar ecosystem** (35+ PRs) - Multiple contributions to Stellar tooling and documentation
+- **[OTTO (otto-de)](https://github.com/otto-de)** - Enterprise e-commerce development and open source automation tools
+- **[Stellar ecosystem](https://github.com/stellar)** (35+ PRs) - Multiple contributions to Stellar tooling and documentation
+- **[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/70621)** - Improved TypeScript type definitions for Node.js streams
 - **[aws-samples/cdk-image-pipeline](https://github.com/aws-samples/cdk-image-pipeline)** - AWS CDK infrastructure improvements
 - **[pytoyoda/ha_toyota](https://github.com/pytoyoda/ha_toyota)** - Home Assistant Toyota integration
 
 #### Issue Reports & Feature Requests:
-- 📊 Reported and fixed issues in **stellar/js-stellar-sdk**, **stellar/freighter**, **stellar/rs-soroban-sdk**
-- 🔧 Filed issues in major projects like **actions/setup-go**, **DefinitelyTyped**, **dependabot**
-- 💡 Proposed features for **stellar/laboratory** and other Stellar tools
+- 📊 Reported and fixed issues in **[stellar/js-stellar-sdk](https://github.com/stellar/js-stellar-sdk)**, **[stellar/freighter](https://github.com/stellar/freighter)**, **[stellar/rs-soroban-sdk](https://github.com/stellar/rs-soroban-sdk)**
+- 🔧 Filed issues in major projects like **[actions/setup-go](https://github.com/actions/setup-go/issues/680)**, **[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/70621)**, **[dependabot](https://github.com/dependabot/dependabot-core)**
+- 💡 Proposed features for **[stellar/laboratory](https://github.com/stellar/laboratory)** and other Stellar tools
 
 ## 🛠️ Technical Skills
 
@@ -97,11 +107,12 @@ With **135+ pull requests** and **36+ issues** across various repositories, I ac
 
 Beyond blockchain, I've worked on a wide variety of projects demonstrating my versatility:
 
-- **🚗 Automotive IoT** - Toyota vehicle integration with Home Assistant
+- **🚗 Automotive IoT** - [Toyota vehicle integration](https://github.com/pytoyoda/ha_toyota) with Home Assistant
 - **⚡ Energy Monitoring** - [neurio-2-mqtt](https://github.com/hanseartic/neurio-2-mqtt) - MQTT bridge for energy sensors
-- **📱 Mobile Development** - FreeCars app for car-sharing services
-- **🤖 Automation** - GitHub Actions, PM2 deployment tools
-- **🔐 Security** - Contributing to CodeQL security scanning improvements
+- **📱 Mobile Development** - [FreeCars](https://github.com/hanseartic/FreeCars) app for car-sharing services (Windows Phone)
+- **🤖 Automation** - GitHub Actions, [PM2 deployment tools](https://github.com/hanseartic/pm2-deploy-action)
+- **🔐 Security** - Contributing to [CodeQL security scanning](https://github.com/otto-de/purge-deprecated-workflow-runs/pull/79) improvements
+- **🏠 IoT & Home Automation** - [Arduino projects](https://github.com/hanseartic/MotorShield), MQTT integrations
 
 ## 📈 GitHub Stats
 
