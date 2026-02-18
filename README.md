@@ -6,35 +6,47 @@ I'm a versatile software developer with a passion for blockchain technology and 
 
 ## 💼 Professional Work @ OTTO
 
-Currently working at **OTTO (otto-de)**, one of Europe's largest e-commerce companies, where I develop and maintain critical DevOps infrastructure and automation tools.
+Currently working at **OTTO GmbH & Co. KG**, one of Europe's largest e-commerce companies, where I contribute to both internal enterprise platforms (**otto-ec**) and public open source initiatives (**otto-de**).
 
-### 🎯 Key Project: purge-deprecated-workflow-runs
+### 🏢 Areas of Contribution
 
-I'm the author and primary maintainer of **[otto-de/purge-deprecated-workflow-runs](https://github.com/otto-de/purge-deprecated-workflow-runs)**, a widely-used GitHub Action that automates workflow run management.
+**Enterprise E-Commerce Development (otto-ec)**
+- Building and maintaining microservices and serverless architectures for large-scale e-commerce operations
+- Developing internal tools and automation solutions for platform reliability and DevOps workflows
+- Contributing to infrastructure modernization and cloud-native application development
+- Working with modern tech stack including TypeScript, Node.js, AWS services, and event-driven architectures
 
-**Project Highlights:**
-- 📦 Published on GitHub Marketplace with production use across multiple organizations
-- 🏗️ **Technologies**: TypeScript, Node.js, GitHub Actions SDK, Octokit REST API
-- 🔄 **Major version releases**: Successfully delivered v1 through v4 with backward compatibility
-- 🔒 **Security-focused**: Implemented CodeQL scanning and security best practices
-- 📈 **Impact**: Helps teams maintain clean repositories by automating removal of obsolete, failed, cancelled, or old workflow runs
-- ⚙️ **Features**: Highly configurable with support for timeframes, workflow filtering, and batch operations
+**Open Source Initiatives (otto-de)**
+- Maintaining public GitHub Actions and automation tools used by the wider developer community
+- Contributing to OTTO's open source ecosystem, fostering knowledge sharing and community engagement
+- Notable contribution: **[purge-deprecated-workflow-runs](https://github.com/otto-de/purge-deprecated-workflow-runs)** - a GitHub Marketplace action for workflow management with production use across multiple organizations
 
-**Key Contributions:**
-- Numerous merged pull requests covering features, refactoring, and maintenance
-- Designed and implemented flexible configuration system supporting boolean and multi-line string inputs
-- Refactored codebase from JavaScript to TypeScript for better type safety
-- Added comprehensive testing and CI/CD pipelines
-- Security improvements including proper permissions handling and vulnerability fixes
+### 💡 Key Professional Skills & Technologies
 
-**Technical Skills Demonstrated:**
-- 🛠️ **Languages**: TypeScript, Node.js
-- ⚡ **GitHub Platform**: Actions SDK (`@actions/core`, `@actions/github`), REST API (`@octokit/rest`)
-- 📦 **Build Tools**: Vercel ncc, npm, TypeScript compiler
-- 🧪 **Testing**: Node.js native test runner, unit testing
-- 🔐 **Security**: CodeQL analysis, SAML enforcement, minimal permissions
-- 📝 **Documentation**: Comprehensive README, usage examples, API documentation
-- 🚀 **CI/CD**: Automated builds, testing, and releases
+**Languages & Frameworks:**
+- TypeScript, JavaScript, Node.js
+- Experience with polyglot environments and modern web technologies
+
+**Cloud & Infrastructure:**
+- AWS services (Lambda, CDK, API Gateway, EventBridge, DynamoDB)
+- Serverless architectures and microservices design
+- Infrastructure as Code (AWS CDK, CloudFormation)
+
+**DevOps & Automation:**
+- GitHub Actions development and CI/CD pipeline optimization
+- Workflow automation and developer productivity tools
+- Build tooling (Vercel ncc, npm, TypeScript compiler)
+
+**Software Engineering Practices:**
+- Security-first development (CodeQL, vulnerability management, minimal permissions)
+- Comprehensive testing strategies and quality assurance
+- Technical documentation and API design
+- Agile development in cross-functional teams
+
+**Impact:**
+- Contributing to systems serving millions of customers in one of Europe's largest e-commerce platforms
+- Developing tools that improve developer productivity and platform reliability
+- Balancing enterprise-grade solutions with open source community contributions
 
 ## 🔭 Focus Areas
 
@@ -51,7 +63,7 @@ I'm deeply engaged in the **Stellar Development Foundation** ecosystem, contribu
 With **135+ pull requests** and **36+ issues** across various repositories, I actively contribute to the open source community:
 
 #### Major Contributions:
-- **[otto-de/purge-deprecated-workflow-runs](https://github.com/otto-de/purge-deprecated-workflow-runs)** (23 PRs) - GitHub Actions workflow management
+- **OTTO (otto-de/otto-ec)** - Enterprise e-commerce development and open source automation tools
 - **Stellar ecosystem** (35+ PRs) - Multiple contributions to Stellar tooling and documentation
 - **[aws-samples/cdk-image-pipeline](https://github.com/aws-samples/cdk-image-pipeline)** - AWS CDK infrastructure improvements
 - **[pytoyoda/ha_toyota](https://github.com/pytoyoda/ha_toyota)** - Home Assistant Toyota integration
@@ -74,11 +86,11 @@ With **135+ pull requests** and **36+ issues** across various repositories, I ac
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Technologies & Tools
-- 🏢 **Professional**: GitHub Actions SDK, Octokit REST API, TypeScript, Node.js, CI/CD automation
+- 🏢 **Professional**: AWS (Lambda, CDK, API Gateway, DynamoDB), TypeScript, Node.js, Microservices, Serverless, GitHub Actions
 - 🔗 **Blockchain**: Stellar, Soroban Smart Contracts
-- ☁️ **Cloud**: AWS CDK, Infrastructure as Code
+- ☁️ **Cloud**: AWS CDK, Infrastructure as Code, CloudFormation
 - 🏠 **IoT**: Home Assistant integrations, Arduino, MQTT
-- 🤖 **DevOps**: GitHub Actions, Docker, Portainer, Workflow Management
+- 🤖 **DevOps**: CI/CD, Docker, Portainer, Workflow Management, Build Automation
 - 🛠️ **Tools**: npm, Vercel ncc, TypeScript compiler, Rust toolchain
 
 ## 🌍 Diverse Project Portfolio
@@ -97,13 +109,13 @@ Beyond blockchain, I've worked on a wide variety of projects demonstrating my ve
 
 ## 🎯 Highlights
 
-- 💼 **Professional Developer @ OTTO**: Building critical DevOps automation tools used across enterprise
-- 🛠️ **GitHub Actions Expert**: Author of production-grade marketplace action for workflow management
-- 🌟 **Stellar Advocate**: Deep involvement in Stellar blockchain ecosystem with multiple production tools
-- 🤝 **Open Source Contributor**: 135+ PRs and 36+ issues across diverse projects
-- 🔧 **Problem Solver**: From fixing type definitions to implementing new features
-- 🌐 **Full-Stack**: Experience across web, mobile, IoT, and blockchain development
-- 📚 **Documentation**: Active in improving developer documentation and tooling
+- 💼 **Enterprise E-Commerce Developer @ OTTO**: Contributing to large-scale platform serving millions of customers
+- 🔧 **Full-Stack Engineer**: Building serverless microservices, automation tools, and DevOps infrastructure
+- 🌐 **Open Source Contributor**: Active in both enterprise open source (otto-de) and community projects (135+ PRs, 36+ issues)
+- 🌟 **Blockchain Specialist**: Deep involvement in Stellar ecosystem with production tools and smart contracts
+- 🛠️ **DevOps Automation**: Creating developer productivity tools and CI/CD solutions
+- 🔐 **Security-Conscious**: Implementing best practices in CodeQL, vulnerability management, and secure architecture
+- 📚 **Technical Communicator**: Documentation, API design, and knowledge sharing across teams
 
 ## 🔗 Connect With Me
 
